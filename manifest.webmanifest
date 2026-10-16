@@ -1,0 +1,19 @@
+{
+  "name": "MSL Trading Journal V10 Premium",
+  "short_name": "MSL Journal",
+  "description": "Premium liquidity-trading journal with native Android session alarms.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070b12",
+  "theme_color": "#101722",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
